@@ -1,0 +1,7 @@
+#2018/4/22
+#Solving Bugs
+
+#occuring when: git pull origin master; with debug information "refusing to merge unrelated histories"
+solving: git pull origin master --allow-unrelated--histories
+#occuring when: git push origin master; with "Aggregate Exception Encountered"
+solving: pull before push

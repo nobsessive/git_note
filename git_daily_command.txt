@@ -1,0 +1,7 @@
+# Date 2018/4/22
+# *Daily Use Git Command*
+
+#Command
+#git remote -v
+  view default remote url
+ #git remote set-url <url>
