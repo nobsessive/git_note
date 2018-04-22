@@ -1,0 +1,21 @@
+# Date 2018/4/22
+# *Basic Git Command*
+# Learning Git on website https://git-scm.com
+
+#Command
+#git init
+  initialize a folder so that you can manipulate stuff in this directory with git
+ #git status
+  viewing current status of your git folder
+ #git add 
+   <filename>
+    make ready for commit, in this stage git may initializing some parameters or points
+   <"*.filetype">
+    make ready for all the files with the same type in current directory ready
+  #git commit 
+    -m "<what ever you want to comment>"
+      commit your files to local git repository
+  #git log
+    see have we done all along
+   #git remote add origin https:///github.com/try-git/try_git.git
+    add a remote repository names origin
