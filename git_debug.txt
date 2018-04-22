@@ -1,4 +1,4 @@
-#2018/4/22
+#Date 2018/4/22
 #Solving Bugs
 
 #occuring when: git pull origin master; with debug information "refusing to merge unrelated histories"
